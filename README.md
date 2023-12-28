@@ -1,13 +1,3 @@
-
-![GitHub open issues](https://img.shields.io/github/issues/allthingslinux/tux?style=for-the-badge&labelColor=%23000000&color=%23f2b033)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/allthingslinux/tux?style=for-the-badge&labelColor=%23000000&color=%23f2b033)
-![GitHub repo stars](https://img.shields.io/github/stars/allthingslinux/tux?style=for-the-badge&labelColor=%23000000&color=%23f2b033)
-![GitHub contributors](https://img.shields.io/github/contributors/allthingslinux/tux?style=for-the-badge&labelColor=%23000000&color=%23f2b033)
-![Members online](https://img.shields.io/discord/1172245377395728464?style=for-the-badge&labelColor=%23000000&color=%23f2b033)
-![GitHub License](https://img.shields.io/github/license/allthingslinux/tux?style=for-the-badge&labelColor=%23000000&color=%23f2b033)
-
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
 # Tux
 
 ## About
